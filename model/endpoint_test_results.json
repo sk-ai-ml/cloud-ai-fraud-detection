@@ -1,0 +1,10 @@
+{
+  "endpoint": "fraud-endpoint-82295",
+  "instance_type": "Standard_F4s_v2",
+  "deployment_minutes": 18.7,
+  "consistency_max_diff": 0.0,
+  "latency_ms_median": 766.6454000864178,
+  "latency_ms_p95": 1146.4676300063727,
+  "unauthenticated_status": 403,
+  "server_ms_median": 5.96
+}

@@ -1,0 +1,7 @@
+true_class,fraud_probability,flagged
+1,0.0013329687,False
+1,0.9977824,True
+1,0.97256064,True
+0,5.5837085e-05,False
+0,0.00013482399,False
+0,4.340004e-05,False
