@@ -1,6 +1,6 @@
 # Cloud AI Framework for Credit Card Fraud Detection
 
-COS7054-B Cloud AI, Coursework 1, University of Bradford.
+
 
 This repository contains the code and evidence for a cloud AI framework that detects credit card fraud and is deployed on **Microsoft Azure Machine Learning**. The work follows the three stages of the AI lifecycle: data preparation, model training and tuning, and deployment and monitoring.
 
